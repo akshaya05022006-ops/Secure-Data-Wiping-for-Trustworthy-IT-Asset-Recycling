@@ -1,0 +1,9 @@
+Your project mostly uses Python built-in libraries, so the file can be simple:
+
+tk
+
+(Optional extended version)
+
+tk
+hashlib
+threading
